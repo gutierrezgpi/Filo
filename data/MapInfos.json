@@ -1,8 +1,16 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":650.4,"scrollY":366},
-{"id":2,"expanded":true,"name":"Cidade Grande","order":2,"parentId":0,"scrollX":1165.2,"scrollY":1254},
-{"id":3,"expanded":false,"name":"Sala do Laboratório","order":3,"parentId":2,"scrollX":832,"scrollY":640},
-{"id":4,"expanded":true,"name":"Cidade da Floresta","order":4,"parentId":0,"scrollX":640.8,"scrollY":356.4},
-{"id":5,"expanded":false,"name":"Casa Abandonada","order":5,"parentId":4,"scrollX":832,"scrollY":640}
+{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":813,"scrollY":457.5},
+{"id":2,"expanded":true,"name":"Cidade Grande","order":2,"parentId":0,"scrollX":1071,"scrollY":1254},
+{"id":3,"expanded":false,"name":"Sala do Laboratório","order":3,"parentId":2,"scrollX":801,"scrollY":502.5},
+{"id":4,"expanded":true,"name":"Tharnwood","order":4,"parentId":0,"scrollX":1119,"scrollY":1435.5},
+{"id":5,"expanded":false,"name":"Casa Abandonada","order":5,"parentId":4,"scrollX":813,"scrollY":457.5},
+{"id":6,"expanded":false,"name":"Loja de Armas","order":6,"parentId":4,"scrollX":832,"scrollY":640},
+{"id":7,"expanded":false,"name":"Loja de Armaduras","order":7,"parentId":4,"scrollX":832,"scrollY":640},
+{"id":8,"expanded":false,"name":"Loja de Itens","order":8,"parentId":4,"scrollX":650.4,"scrollY":366},
+{"id":9,"expanded":true,"name":"Pousada 1º Andar","order":10,"parentId":4,"scrollX":801,"scrollY":502.5},
+{"id":10,"expanded":false,"name":"Pousada 2º Andar","order":11,"parentId":9,"scrollX":1182.5454545454545,"scrollY":665.4545454545455},
+{"id":11,"expanded":false,"name":"Bar","order":9,"parentId":4,"scrollX":640.8,"scrollY":450},
+{"id":12,"expanded":true,"name":"Casa de Aldeia 1º Andar","order":12,"parentId":4,"scrollX":832,"scrollY":640},
+{"id":13,"expanded":false,"name":"Casa de Aldeia 2º Andar","order":13,"parentId":12,"scrollX":832,"scrollY":640}
 ]
